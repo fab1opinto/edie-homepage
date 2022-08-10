@@ -40,7 +40,7 @@ https://user-images.githubusercontent.com/52512005/183753495-0316d8c1-ab9a-4776-
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- my demo is hosted on netlify platform "link"
+- my demo is hosted on netlify platform: https://home-edie.netlify.app/
 - my experience was good because i practiced css flex box
 - Improved on how to use parent property in html, flexbox css and semantic html
 - My wisdom is always to evolve in the knowledge I already have
